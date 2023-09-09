@@ -10,7 +10,7 @@
   -  [mastodon](https://fosstodon.org/@danielfeldroy)
   -  [LinkedIn](https://www.linkedin.com/in/danielfeldroy/)
   -  [twitter](https://twitter.com/pydanny)
-- ⚡ Fun fact: I met my wife at PyCon US in 2010. She is awesome, her GH account is @audreyfeldroy
+- ⚡ Fun fact: I met my wife at PyCon US in 2010. She is awesome, her GH account is [@audreyfeldroy](https://github.com/audreyfeldroy)
 
 ### Commits on personal repos
 
