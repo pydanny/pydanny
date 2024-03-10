@@ -5,7 +5,7 @@
 - 🐍 I code mostly in Python, but also some NodeJS and Rust
 - 🌱 I’m currently learning Rust
 - 🌎 Contact me if you want to join me in decarbonizing the planet
-- 🥋 I'm currently training in Brazilian Jiu-Jitsu, slowly returning to Capoeira as injuries heal
+- 🥋 I'm currently training in Brazilian Jiu-Jitsu for sport and Tai Chi to help recover from a bike injury
 - 📫 How to reach me:
   -  [mastodon](https://fosstodon.org/@danielfeldroy)
   -  [LinkedIn](https://www.linkedin.com/in/danielfeldroy/)
