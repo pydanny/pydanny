@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working for [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group on decarbonizing the planet
+- 🤖 I'm currently working in R&D for [answer.ai](https://www.answer.ai/), democratizing AI.
+- 🔭 On sabbatical from [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group on decarbonizing the planet
 - 😄 Pronouns: he/him
 - 🐍 I code mostly in Python, but also some NodeJS and Rust
 - 🌱 I’m currently learning Rust
