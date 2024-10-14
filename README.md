@@ -4,7 +4,6 @@
 - 🔭 On sabbatical from [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group on decarbonizing the planet
 - 😄 Pronouns: he/him
 - 🐍 I code mostly in Python, but also some NodeJS and Rust
-- 🌱 I’m currently learning Rust
 - 🌎 Contact me if you want to join me in decarbonizing the planet
 - 🥋 I'm currently training in Brazilian Jiu-Jitsu for sport and fitness
 - 📫 How to reach me:
