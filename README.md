@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🤖 I'm currently working in R&D for [answer.ai](https://www.answer.ai/), democratizing AI
+- 🤖 I'm currently on the research staff at [answer.ai](https://www.answer.ai/), democratizing AI
 - 🌎 On sabbatical from [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group on decarbonizing the planet.
 - 😄 Pronouns: he/him
 - 🐍 I code mostly in Python
