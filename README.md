@@ -5,7 +5,7 @@
 - 🐍 I code mostly in Python
 - 🥋 I'm currently training in Brazilian Jiu-Jitsu for sport and fitness
 - 📫 How to reach me:
-  -  [Bluesky]([https://twitter.com/pydanny](https://bsky.app/profile/pydanny.bsky.social))
+  -  [Bluesky](https://bsky.app/profile/daniel.feldroy.com)
   -  [LinkedIn](https://www.linkedin.com/in/danielfeldroy/)
   -  [Threads](https://www.threads.net/@danielfeldroy)
   -  [Twitter](https://twitter.com/pydanny)
