@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌎 On sabbatical from [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group on decarbonizing the planet.
+- 🤖 I was previously a R&D engineer/scientist at AI research lab Answer.AI
 - 🐍 I code mostly in Python
 - 🥋 I train in Brazilian Jiu-Jitsu for sport and fitness
 - 📫 How to reach me:
