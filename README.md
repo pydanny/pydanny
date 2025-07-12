@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🕸️ I'm working on a new Python web framework: [Air](https://github.com/feldroy/air)!
+- 🕸️ I'm working on a new FastAPI-powered Python web framework: [Air](https://github.com/feldroy/air)!
 - 🔎 I'm experimenting, playing with code/AI, and exploring whatever random things interest me
 - 🌎 On sabbatical from [@kraken-tech](https://github.com/kraken-tech), part of the [@octoenergy](https://github.com/octoenergy) group focusing on electrification and saving the planet by reducing our dependency on carbon-based fuels 
 - 🔭 I was previously at @nasa and worked as R&D engineer/scientist at AI research lab [Answer.AI](https://www.answer.ai/)
