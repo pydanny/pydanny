@@ -13,5 +13,5 @@
   -  [Threads](https://www.threads.net/@danielfeldroy)
   -  [Twitter](https://twitter.com/pydanny)
   -  [Mastodon](https://fosstodon.org/@danielfeldroy)
-- 💕 Husband of [@audreyfeldroy](https://github.com/audreyfeldroy) 💘, father of Uma 🥋🔭
+- 💕 Husband of [@audreyfeldroy](https://github.com/audreyfeldroy) 💘, father of Uma 🥋👩‍🔬
 - ⚡ Fun fact: I met my wife at PyCon US in 2010
